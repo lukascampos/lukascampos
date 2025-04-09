@@ -40,12 +40,10 @@
   <br><p><b>Visitor count</b></p>  
   <img src="https://profile-counter.glitch.me/{lukascampos}/count.svg" />
 </div>
+<br>
 
 <!-- Social Links -->
 <div align="center"> 
-  <a href="mailto:lukasgomes.campos@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/lukas-campos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
