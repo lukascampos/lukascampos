@@ -35,13 +35,6 @@
 </div>
 <br>
 
-<!-- Visitor Count -->
-<div align="center">
-  <br><p><b>Visitor count</b></p>  
-  <img src="https://profile-counter.glitch.me/{lukascampos}/count.svg" />
-</div>
-<br>
-
 <!-- Social Links -->
 <div align="center"> 
   <a href="https://www.linkedin.com/in/lukas-campos" target="_blank">
